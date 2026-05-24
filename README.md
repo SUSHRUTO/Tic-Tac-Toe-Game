@@ -8,7 +8,7 @@ Unlike traditional neon or gaming-style Tic Tac Toe projects, this project provi
 
 ## 🚀 Live Demo
 
-🔗 Live Link: [Add your deployed link here]
+🔗 Live Link: https://tic-tac-toe-game-gamma-sepia.vercel.app/
 
 ---
 
@@ -71,7 +71,7 @@ Players enter their names before starting the game and compete in a notebook-sty
 ## 📁 Project Structure
 
 ```bash
-tic-tac-toe-notebook
+tic-tac-toe-game
 │
 ├── public/
 │
@@ -92,13 +92,13 @@ tic-tac-toe-notebook
 Clone repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/SUSHRUTO/Tic-Tac-Toe-Game
 ```
 
 Navigate to project folder:
 
 ```bash
-cd tic-tac-toe-notebook
+cd tic-tac-toe-game
 ```
 
 Install dependencies:
